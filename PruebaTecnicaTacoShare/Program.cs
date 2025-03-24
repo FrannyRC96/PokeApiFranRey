@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using PruebaTecnicaTacoShare.Data;
 using PruebaTecnicaTacoShare.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -21,6 +23,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddHttpClient<PokeApiService>();
+builder.Services.AddDbContext<PokemonDBContext>(options =>
+options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 

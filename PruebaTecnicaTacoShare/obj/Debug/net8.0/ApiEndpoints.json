@@ -16,6 +16,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "PruebaTecnicaTacoShare.Controllers.PokemonController",
+    "Method": "SavePokemon",
+    "RelativePath": "api/pokemon/{name}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "PruebaTecnicaTacoShare.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
