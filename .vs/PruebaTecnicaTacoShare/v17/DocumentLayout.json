@@ -7,32 +7,24 @@
       "RelativeMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|solutionrelative:pruebatecnicatacoshare\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fcoav\\source\\repos\\PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare\\Migrations\\20250324062442_RemoveTypeColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PruebaTecnicaTacoShare\\Migrations\\20250324062442_RemoveTypeColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|c:\\users\\fcoav\\source\\repos\\pruebatecnicatacoshare\\pruebatecnicatacoshare\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|solutionrelative:pruebatecnicatacoshare\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|c:\\users\\fcoav\\source\\repos\\pruebatecnicatacoshare\\pruebatecnicatacoshare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|solutionrelative:pruebatecnicatacoshare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|c:\\users\\fcoav\\source\\repos\\pruebatecnicatacoshare\\pruebatecnicatacoshare\\migrations\\20250324052636_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|solutionrelative:pruebatecnicatacoshare\\migrations\\20250324052636_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|c:\\users\\fcoav\\source\\repos\\pruebatecnicatacoshare\\pruebatecnicatacoshare\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|solutionrelative:pruebatecnicatacoshare\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|c:\\users\\fcoav\\source\\repos\\pruebatecnicatacoshare\\pruebatecnicatacoshare\\services\\pokeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|solutionrelative:pruebatecnicatacoshare\\services\\pokeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|c:\\users\\fcoav\\source\\repos\\pruebatecnicatacoshare\\pruebatecnicatacoshare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|solutionrelative:pruebatecnicatacoshare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|c:\\users\\fcoav\\source\\repos\\pruebatecnicatacoshare\\pruebatecnicatacoshare\\data\\pokemondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|solutionrelative:pruebatecnicatacoshare\\data\\pokemondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|c:\\users\\fcoav\\source\\repos\\pruebatecnicatacoshare\\pruebatecnicatacoshare\\migrations\\20250324062442_removetypecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|solutionrelative:pruebatecnicatacoshare\\migrations\\20250324062442_removetypecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|c:\\users\\fcoav\\source\\repos\\pruebatecnicatacoshare\\pruebatecnicatacoshare\\services\\pokeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB1311-E268-411D-8493-55521696A32D}|PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare.csproj|solutionrelative:pruebatecnicatacoshare\\services\\pokeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "20250324062442_RemoveTypeColumn.cs",
               "DocumentMoniker": "C:\\Users\\fcoav\\source\\repos\\PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare\\Migrations\\20250324062442_RemoveTypeColumn.cs",
               "RelativeDocumentMoniker": "PruebaTecnicaTacoShare\\Migrations\\20250324062442_RemoveTypeColumn.cs",
@@ -65,14 +57,14 @@
               "RelativeDocumentMoniker": "PruebaTecnicaTacoShare\\Controllers\\PokemonController.cs",
               "ToolTip": "C:\\Users\\fcoav\\source\\repos\\PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare\\Controllers\\PokemonController.cs",
               "RelativeToolTip": "PruebaTecnicaTacoShare\\Controllers\\PokemonController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAACkAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T05:35:37.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\fcoav\\source\\repos\\PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare\\appsettings.json",
               "RelativeDocumentMoniker": "PruebaTecnicaTacoShare\\appsettings.json",
@@ -85,52 +77,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PokemonDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\fcoav\\source\\repos\\PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare\\Data\\PokemonDBContext.cs",
-              "RelativeDocumentMoniker": "PruebaTecnicaTacoShare\\Data\\PokemonDBContext.cs",
-              "ToolTip": "C:\\Users\\fcoav\\source\\repos\\PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare\\Data\\PokemonDBContext.cs",
-              "RelativeToolTip": "PruebaTecnicaTacoShare\\Data\\PokemonDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T04:59:09.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fcoav\\source\\repos\\PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare\\Program.cs",
               "RelativeDocumentMoniker": "PruebaTecnicaTacoShare\\Program.cs",
               "ToolTip": "C:\\Users\\fcoav\\source\\repos\\PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare\\Program.cs",
               "RelativeToolTip": "PruebaTecnicaTacoShare\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T01:09:14.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250324052636_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\fcoav\\source\\repos\\PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare\\Migrations\\20250324052636_InitialCreate.cs",
-              "RelativeDocumentMoniker": "PruebaTecnicaTacoShare\\Migrations\\20250324052636_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\fcoav\\source\\repos\\PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare\\Migrations\\20250324052636_InitialCreate.cs",
-              "RelativeToolTip": "PruebaTecnicaTacoShare\\Migrations\\20250324052636_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T05:26:37.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Pokemon.cs",
               "DocumentMoniker": "C:\\Users\\fcoav\\source\\repos\\PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare\\Models\\Pokemon.cs",
               "RelativeDocumentMoniker": "PruebaTecnicaTacoShare\\Models\\Pokemon.cs",
               "ToolTip": "C:\\Users\\fcoav\\source\\repos\\PruebaTecnicaTacoShare\\PruebaTecnicaTacoShare\\Models\\Pokemon.cs",
               "RelativeToolTip": "PruebaTecnicaTacoShare\\Models\\Pokemon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T04:44:15.982Z",
               "EditorCaption": ""
@@ -145,8 +111,7 @@
               "RelativeToolTip": "PruebaTecnicaTacoShare\\Services\\PokeApiService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAqwBMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T04:06:41.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T04:06:41.345Z"
             }
           ]
         }

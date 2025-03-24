@@ -39,7 +39,7 @@ namespace PruebaTecnicaTacoShare.Controllers
                 Name = pokemon.Name,
                 Height = pokemon.Height,
                 Weight = pokemon.Weight,
-                Abilities = pokemon.Abilities.Select(a => a.Ability.Name).ToList()
+                Abilities = string.Join(",", pokemon.Abilities.Select(a => a.Ability.Name))
             };
             _context.Pokemons.Add(pokemonEntity);
             await _context.SaveChangesAsync();
