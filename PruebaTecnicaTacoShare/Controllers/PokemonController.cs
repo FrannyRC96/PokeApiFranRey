@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using PruebaTecnicaTacoShare.Data;
 using PruebaTecnicaTacoShare.Models;
@@ -27,6 +28,14 @@ namespace PruebaTecnicaTacoShare.Controllers
                 return NotFound(new { message = "Pokemon no encontrado" });
             return Ok(pokemon);
         }
+        [HttpGet]
+        public async Task<IActionResult> GetAllPokemons()
+        {
+            var pokemons = await _context.Pokemons.ToListAsync();
+            if (pokemons == null || !pokemons.Any())
+                return NotFound(new { message = "No se han encontrado Pokemons" });
+            return Ok(pokemons);
+        }
         [HttpPost("{name}")]
         public async Task<IActionResult> SavePokemon(string name)
         {
@@ -44,7 +53,36 @@ namespace PruebaTecnicaTacoShare.Controllers
             _context.Pokemons.Add(pokemonEntity);
             await _context.SaveChangesAsync();
             return Ok(pokemon);
-                //CreatedAtAction(nameof(GetPokemon), new {name = pokemonEntity.Name});
+            //CreatedAtAction(nameof(GetPokemon), new {name = pokemonEntity.Name});
+        }
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdatePokemon(int id, [FromBody] Pokemon updatedPokemon)
+        {
+            //Primero checar si el pokemon existe
+            var pokemonEntity = await _context.Pokemons.FindAsync(id);
+            if (pokemonEntity == null)
+                return NotFound(new {message = "Pokemon no encontrado"});
+            //Actualizamos las propiedades del objeto, o sease del pokemon
+            pokemonEntity.Name = updatedPokemon.Name;
+            pokemonEntity.Height = updatedPokemon.Height;
+            pokemonEntity.Weight = updatedPokemon.Weight;
+            pokemonEntity.Abilities = updatedPokemon.Abilities;
+
+            //guardamos los cambios
+            await _context.SaveChangesAsync();
+            return Ok(pokemonEntity);
+        }
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeletePokemon(int id)
+        {
+            //Verificamos que el pokemon exista
+            var pokemonEntity = await _context.Pokemons.FindAsync(id);
+            if (pokemonEntity == null)
+                return NotFound(new { message = "Pokemon no encontrado" });
+            //si se encuentra pues se elimina
+            _context.Pokemons.Remove(pokemonEntity);
+            await _context.SaveChangesAsync();
+            return NoContent();
         }
     }
 }

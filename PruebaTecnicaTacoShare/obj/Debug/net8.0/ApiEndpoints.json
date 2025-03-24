@@ -1,6 +1,53 @@
 [
   {
     "ContainingType": "PruebaTecnicaTacoShare.Controllers.PokemonController",
+    "Method": "GetAllPokemons",
+    "RelativePath": "api/pokemon",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaTecnicaTacoShare.Controllers.PokemonController",
+    "Method": "UpdatePokemon",
+    "RelativePath": "api/pokemon/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedPokemon",
+        "Type": "PruebaTecnicaTacoShare.Models.Pokemon",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaTecnicaTacoShare.Controllers.PokemonController",
+    "Method": "DeletePokemon",
+    "RelativePath": "api/pokemon/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaTecnicaTacoShare.Controllers.PokemonController",
     "Method": "GetPokemon",
     "RelativePath": "api/pokemon/{name}",
     "HttpMethod": "GET",
