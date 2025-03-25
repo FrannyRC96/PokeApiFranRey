@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebaTecnicaTacoShare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1dfd837cebf0ac592330fff267228ee43692b55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a91fce05f4becbdd5fcf6e49edfd3cd6c11ed7df")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebaTecnicaTacoShare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebaTecnicaTacoShare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
